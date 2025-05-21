@@ -1,4 +1,4 @@
-# ESP32-Text-Encryption-Application
+# ESP32-Text-Encryption-Application-SERIAL_ONLY
 Author: Samuel Coniglio
 Langauge: Arduino C++
 Hardware: ESP-D0WD-V3
